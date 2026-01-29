@@ -16,6 +16,8 @@ class arret
         int tempsArretMinimum; // En secondes
 
     public:
+        int getX();
+        int getY();
 
 };
 
